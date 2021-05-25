@@ -1,4 +1,4 @@
-### Hi there! I'm Yumi Machino 👋
+# Hi there! I'm Yumi Machino 👋
 ## A Front-End Developer student in Vancouver🇨🇦
 
 ### 📍Here is a link to my portfolio: http://portfolio-next-js-two.vercel.app/ 
