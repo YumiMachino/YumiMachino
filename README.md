@@ -1,5 +1,5 @@
 # Hi there! I'm Yumi Machino 👋
-## A Front-End Developer student in Vancouver🇨🇦
+## A focused web development student looking for opportunities to build a career as a Front-End developer in Vancouver, Canada🇨🇦
 
 ### 📍Here is a link to my portfolio: http://portfolio-next-js-two.vercel.app/ 
 <!--
