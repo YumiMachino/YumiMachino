@@ -1,7 +1,7 @@
 # Hi there! I'm Yumi Machino 👋
 ## A focused web development student looking for opportunities to build a career as a Front-End developer in Vancouver, Canada🇨🇦
 
-### 📍Here is a link to my portfolio: http://portfolio-next-js-two.vercel.app/ 
+### 📍Here is a link to my portfolio: https://www.yumimachino.tech/ 
 <!--
 **YumiMachino/YumiMachino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
