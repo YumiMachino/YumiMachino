@@ -1,7 +1,8 @@
 ![Web Development and iOS Development](https://github.com/YumiMachino/YumiMachino/blob/main/banner.jpg?raw=true)
 
 ## Hi there 👋, my name is Yumi Machino.
-A focused web development student looking for opportunities to build a career as a Front-End developer in Vancouver, Canada🇨🇦
+I am a passionate Front-End Engineer based in Vancouver, Canada🇨🇦
+
 
 ## Skills and Experience
 - 💻  REACT / JS / HTML / CSS
